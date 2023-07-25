@@ -1,5 +1,4 @@
 Hello from Notepad.
 This is for task 2.
 Mihail update for task 2.
-Kiitan's update - check for conflicts
-
+Mihail update after branch.
